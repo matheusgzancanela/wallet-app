@@ -30,4 +30,4 @@ cd wallet-app
 
 3. Open the `index.html` file.
 
-4. Use the `teste@teste.com` user or create new one.
+4. Use the `matheus.zancanela@teste.com` user or create new one.
